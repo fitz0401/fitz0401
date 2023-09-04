@@ -16,3 +16,6 @@
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)](https://soliditylang.org/)
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
+
+#### Code status
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitz0401&layout=compact&theme=vue)

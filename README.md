@@ -4,6 +4,7 @@
 
 - 👨‍🎓 I'm an M.S. student at [Shanghai Jiao Tong Universiy](https://en.sjtu.edu.cn/) and major at robotics.
 - 🔬 My current research interest including legged robot, autonomous driving, and emobodied AI.
+- 📝 More about me please check my [website](https://fitz0401.github.io/).
 
 #### Platform&Tools
 
@@ -18,4 +19,4 @@
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 
 #### Code status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitz0401&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitz0401&layout=compact&theme=graywhite)
